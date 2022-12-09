@@ -182,8 +182,7 @@ public class ShoppingList2 {
 	public static void showItems(ArrayList<String> shoppingList) {
 		System.out.println("\n --------------------------\n" + "\tShopping List" + "\n --------------------------\n");
 		for (String item : shoppingList) {
-			System.out.printf("'%10.2f'%n",
-					item.substring(0, item.indexOf(":")) + "\t\t\t" + item.substring(item.indexOf(":") + 1) + "\n");
+			System.out.println( item.substring(0, item.indexOf(":")) + "\t\t\t" + item.substring(item.indexOf(":") + 1) + "\n");
 		}
 		System.out.println(" --------------------------\n");
 	}// end of method showItems(ArrayList<String>)

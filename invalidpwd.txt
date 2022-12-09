@@ -1,0 +1,11 @@
+MYPassword: The password needs at least a Number | Error code 3
+MYPA55###: The password needs at least a Lower Case | Error code 2
+admin: The password needs at least an Upper Case | Error code 1
+Kids&Wife: The password needs at least a Number | Error code 3
+#THE12ROCK#: The password needs at least a Lower Case | Error code 2
+password: The password needs at least an Upper Case | Error code 1
+Gabriel99: The password needs at least a Special Character | Error code 4
+1111: The password needs at least an Upper Case | Error code 1
+Jeff&Karis: The password needs at least a Number | Error code 3
+RULDS2iam: The password needs at least a Special Character | Error code 4
+04281983: The password needs at least an Upper Case | Error code 1
